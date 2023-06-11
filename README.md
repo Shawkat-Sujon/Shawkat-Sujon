@@ -1,7 +1,7 @@
 ![MasterHead](https://docs.ionos.space/assets/static/githubactions-cover.bd64798.c7f7a2d8af766db355fafb89a83091c2.png)
 <h1 align="center">Hi 👋, I'm Shawkat Sujon</h1>
 <h3 align="center">A Tech Enthusiast and Software Engineer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://i0.wp.com/gamedev-resources.com/wp-content/uploads/2021/04/1-final.gif?fit=700%2C300&ssl=1">
+<!-- <img align="right" alt="Coding" width="400" src="https://i0.wp.com/gamedev-resources.com/wp-content/uploads/2021/04/1-final.gif?fit=700%2C300&ssl=1"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawkat-sujon&label=Profile%20views&color=0e75b6&style=flat" alt="shawkat-sujon" /> </p>
 
