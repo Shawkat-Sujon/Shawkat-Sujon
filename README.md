@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawkat-sujon&label=Profile%20views&color=0e75b6&style=flat" alt="shawkat-sujon" /> </p>
 <div>
-A Tech Enthusiast and Software Engineering graduate from Islamic University of Technology, currently working as a QA trainee at BJIT. I am a self-motivated Software Engineer having sound knowledge in Software development and Testing. Looking for a challenging position to work environment where I can grow and contribute to the company's growth using my knowledge and skills. I have deep interest in data science, machine learning, deep learning, cybersecurity and ERP systems.
+A Tech Enthusiast and Software Engineering graduate from Islamic University of Technology, currently working as a QA trainee at BJIT. I am a self-motivated Software Engineer having sound knowledge in Software development and Testing. I have deep interest in data science, machine learning, deep learning, cybersecurity and ERP systems.
 </div>
 <div>
   <h3 align="left">🧠 What I'm currently learning</h3>
