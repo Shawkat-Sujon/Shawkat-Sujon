@@ -1,9 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/C561BAQG0LBKmHe5w-w/company-background_10000/0/1576627671230?e=1693098000&v=beta&t=cZGCvKJxOlF7IxYBFYUFHv5Axvb5k6vgSMq8Hxjle3I)
 <h1 align="left">Hi, I'm Shawkat Sujon 👋</h1>
-<h3 align="left">QA Engineer @BJIT | Software Engineer from IUT</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://i0.wp.com/gamedev-resources.com/wp-content/uploads/2021/04/1-final.gif?fit=700%2C300&ssl=1"> -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shawkat-sujon&label=Profile%20views&color=0e75b6&style=flat" alt="shawkat-sujon" /> </p>
+<p align="left"><h3>QA Engineer @BJIT | Software Engineer from IUT</h3></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shawkat-sujon&label=Profile%20views&color=0e75b6&style=flat" alt="shawkat-sujon" /> </p>
 
 A Tech Enthusiast and Software Engineering graduate from Islamic University of Technology, currently working as a QA trainee at BJIT. I am a self-motivated Software Engineer with sound Software development and Testing knowledge. I am deeply interested in data science, machine learning, deep learning, cybersecurity, and ERP systems.
 
@@ -15,9 +13,9 @@ A Tech Enthusiast and Software Engineering graduate from Islamic University of T
 
 - Manual and Automation Testing
 
-- Machine Learning, Deep learning, Computer Vision
+- Machine Learning, Deep Learning, Computer Vision
 
-- How to reach me **sujoniutswe@gmail.com**
+- React, Frontend Development, REST API
 </div>
 
 ## 🛠 Skills
@@ -51,9 +49,12 @@ A Tech Enthusiast and Software Engineering graduate from Islamic University of T
 - Fundamentals of Digital Marketing by Google
 - Excel for Business by BYLCx
 
-## GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shawkat-sujon&show_icons=true&locale=en&layout=compact" alt="shawkat-sujon" /></p>
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Shawkat-Sujon/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawkat-sujon-220492186/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-blueviolet?style=flat&logo=instagram)](https://www.instagram.com/s.h.a.w.k.a.t/?hl=en)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shawkat-sujon&show_icons=true&locale=en" alt="shawkat-sujon" /></p>
+
+## GitHub Stats
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shawkat-sujon&" alt="shawkat-sujon" /></p>
