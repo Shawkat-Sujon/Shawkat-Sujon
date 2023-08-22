@@ -1,16 +1,25 @@
 ![MasterHead](https://docs.ionos.space/assets/static/githubactions-cover.bd64798.c7f7a2d8af766db355fafb89a83091c2.png)
-<h1 align="center">Hi 👋, I'm Shawkat Sujon</h1>
-<h3 align="center">A Tech Enthusiast and Software Engineer from Bangladesh</h3>
+<h2 align="left">Hi, I'm Shawkat Sujon 👋</h2>
+<h3 align="left">QA Engineer @BJIT | Software Engineer from IUT</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://i0.wp.com/gamedev-resources.com/wp-content/uploads/2021/04/1-final.gif?fit=700%2C300&ssl=1"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawkat-sujon&label=Profile%20views&color=0e75b6&style=flat" alt="shawkat-sujon" /> </p>
+<div>
+A Tech Enthusiast and Software Engineering graduate from Islamic University of Technology, currently working as a QA trainee at BJIT. I am a self-motivated Software Engineer having sound knowledge in Software development and Testing. Looking for a challenging position to work environment where I can grow and contribute to the company's growth using my knowledge and skills. I have deep interest in data science, machine learning, deep learning, cybersecurity and ERP systems.
+</div>
+<div>
+  <h3 align="left">🧠 What I'm currently learning</h3>
+  <p align="left"> I'm currently learning deep learning, computer vision, Manual Testing, Automation Testing, and software development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful individual. </p>
+</div>
+<div>
+  <h4 align="left">💬 Ask me about-</h4>
 
-- 🌱 I’m currently learning **Manual and Automation Testing**
+- Manual and Automation Testing
 
-- 💬 Ask me about **react, tensorflow, machine learning**
+- Machine Learning, Deep learning, Computer Vision
 
-- 📫 How to reach me **sujoniutswe@gmail.com**
-
+- How to reach me **sujoniutswe@gmail.com**
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/shawkat sujon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shawkat sujon" height="30" width="40" /></a>
