@@ -1,6 +1,6 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="left">Hi, I'm Shawkat Sujon 👋</h1>
-<p align="left"><h3>QA Engineer @BJIT | Software Engineer from IUT</h3></p>
+<p align="left"> <h3>QA Engineer @BJIT | Software Engineer from IUT</h3></p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shawkat-sujon&label=Profile%20views&color=0e75b6&style=flat" alt="shawkat-sujon" /> </p>
 
 A Tech Enthusiast and Software Engineering graduate from Islamic University of Technology, currently working as a QA trainee at BJIT. I am a self-motivated Software Engineer with sound Software development and Testing knowledge. I am deeply interested in data science, machine learning, deep learning, cybersecurity, and ERP systems.
@@ -41,8 +41,8 @@ A Tech Enthusiast and Software Engineering graduate from Islamic University of T
 ## 🎓 Education
 
 - Islamic University of Technology, Gazipur, Bangladesh.
-- Bachelor of Science in Software Engineering
-- Graduation Date: May, 2023
+  - Bachelor of Science in Software Engineering
+  - Graduation Date: May, 2023
 
 ## 📚 Training
 - Ethical Hacking from Scratches by Udemy
