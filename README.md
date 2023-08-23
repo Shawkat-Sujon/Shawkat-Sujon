@@ -9,7 +9,7 @@ A Tech Enthusiast and Software Engineering graduate from Islamic University of T
 <p align="left"> I'm currently learning deep learning, computer vision, Manual Testing, Automation Testing, and software development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful individual. </p>
 
 <div>
-  <h4 align="left">💬 Ask me about-</h4>
+  <h3 align="left">💬 Ask me about-</h3>
 
 - Manual and Automation Testing
 
