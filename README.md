@@ -32,7 +32,7 @@ A Tech Enthusiast and Software Engineering graduate from Islamic University of T
   <div>
     
 ## 💻 Work Experience
-- BJIT, QA Engineer, 01/08/2023 - Present
+- BJIT Limited, QA Engineer, 01/08/2023 - Present
     - Responsibilities: Designing and executing test plans, identifying defects, and collaborating with development teams to enhance software quality. Also       establish testing methodologies and standards to deliver reliable and efficient software solutions.
 
 - Digital Agency Nordic, Software Engineer Intern, 06/2022-12/2022
