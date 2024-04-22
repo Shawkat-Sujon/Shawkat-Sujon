@@ -1,9 +1,11 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="left">Hi, I'm Shawkat Sujon 👋</h1>
-<p align="left"> <h3>QA Engineer @BJIT | Software Engineer from IUT</h3></p>
+<p align="left"> <h3>SQA Engineer @BJIT | Software Engineer from IUT</h3></p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shawkat-sujon&label=Profile%20views&color=0e75b6&style=flat" alt="shawkat-sujon" /> </p>
 
-A Tech Enthusiast and Software Engineering graduate from Islamic University of Technology, currently working as a QA trainee at BJIT. I am a self-motivated Software Engineer with sound Software development and Testing knowledge. I am deeply interested in data science, machine learning, deep learning, cybersecurity, and ERP systems.
+A self-motivated Software QA Engineer with a proven track record in Software Testing, I am enthusiastic about taking on challenging
+roles within an innovative work environment. I am eager to apply my expertise to not only facilitate personal growth but also make a
+significant impact on the company’s ongoing success. I am deeply interested in data science, machine learning, deep learning, cybersecurity, and ERP systems.
 
 ## 🧠 What I'm currently learning
 <p align="left"> I'm currently learning deep learning, computer vision, Manual Testing, Automation Testing, and software development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful individual. </p>
@@ -32,17 +34,17 @@ A Tech Enthusiast and Software Engineering graduate from Islamic University of T
   <div>
     
 ## 💻 Work Experience
-- BJIT Limited, QA Engineer, 01/08/2023 - Present
-    - Responsibilities: Designing and executing test plans, identifying defects, and collaborating with development teams to enhance software quality. Also       establish testing methodologies and standards to deliver reliable and efficient software solutions.
+- BJIT Limited, SQA Engineer, 01/08/2023 - Present
+    - Responsibilities: Test Case Design, Execution and effective Bug reporting of Valmet PDM(Product Data Management) application & its API endpoints. Performed SQL queries for DB testing and Performance testing using Jmeter. Performed and Analyzed Burp Suite to identify critical vulnerabilities and assess potential security
+risks at various stages of SDLC
 
-- Digital Agency Nordic, Software Engineer Intern, 06/2022-12/2022
-    - Responsibilities: Design, Development and Quality Assurance of Web Applications before deployment. Testing overall system using various testing             techniques and tools.
-
+- Digital Agency Nordic, Associate Software Engineer, QA, 10/2022-07/2023
+    - Responsibilities: Design, Development, and overall Quality Assurance of mpp.se Web Application. Performed Functional, UI, Regression Testing, Exploratory Testing, and defect reporting.
 ## 🎓 Education
 
 - Islamic University of Technology, Gazipur, Bangladesh.
   - Bachelor of Science in Software Engineering
-  - Graduation Date: May, 2023
+  - Graduation: Nov, 2022
 
 ## 📚 Training
 - Ethical Hacking from Scratches by Udemy
